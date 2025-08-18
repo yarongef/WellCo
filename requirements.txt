@@ -1,0 +1,14 @@
+# Core ML and Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+joblib>=1.2.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Standard Library Dependencies (included with Python)
+# datetime
+# typing
+# pathlib
+# logging
